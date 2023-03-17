@@ -18,7 +18,7 @@ body {
 }
 
 header, nav, main, footer {
-    padding: 2px calc((100% - 800px) / 2) 0;
+    padding: 2px calc((100% - 900px) / 2) 0;
 }
 
 main {
@@ -120,7 +120,7 @@ nav div:last-child a {
 
 nav a.live {
     color: #34495E;
-    cursor: default;
+    cursor: pointer;
 }
 
 nav a.live:hover {
